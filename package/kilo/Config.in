@@ -1,0 +1,5 @@
+config KILO
+bool "kilo><"
+string "add kilo success~~" 
+help
+https://github.com/rebvivi/kilo
